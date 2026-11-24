@@ -48,6 +48,7 @@ src/
 - **config.js** : URLs, filtres et champs centralisés dans un fichier dédié.
 - **PropTypes** : les props de chaque composant sont typées avec `prop-types`.
 - Nommage : camelCase (variables/fonctions), PascalCase (composants), indentation 2 espaces.
+- **Aide ponctuelle** : Copilot a aidé à corriger la recherche par technologie et vérifier lint/build.
 
 ## Routes
 
